@@ -1,4 +1,4 @@
-## Ola sou Rodrigo Almeida, estagiario em design gráfico e aprendendo sobre progamação!
+## Ola meu nome é Rodrigo, procurando novos desafios 
 
 <div align="center">
   <a href="https://github.com/Rodrig0Almeida">
